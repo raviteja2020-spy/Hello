@@ -1,2 +1,2 @@
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
-
+https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896
